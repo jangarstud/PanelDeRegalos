@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="Introducción" target="introduccion"/>
+  <tocitem text="Validación" target="validacion"/>
+  <tocitem text="Participar en los premios" target="premios" />
+  <tocitem text="Vista del catálogo" target="catalogo" />
+  <tocitem text="Vista del carrito" target="carrito" />
+  <tocitem text="Panel del artículo" target="articulo" />
+  <tocitem text="Reserva de viaje" target="reserva" />
+
+</toc>
